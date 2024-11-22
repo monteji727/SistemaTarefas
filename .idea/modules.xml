@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bora/Bora.iml" filepath="$PROJECT_DIR$/Bora/Bora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeuDEUS.iml" filepath="$PROJECT_DIR$/MeuDEUS.iml" />
+    </modules>
+  </component>
+</project>
